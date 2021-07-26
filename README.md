@@ -1,4 +1,6 @@
 # Oracle Linux base images
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Fcontainer-images.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Fcontainer-images?ref=badge_shield)
+
 
 This repo stores the architecture-specific rootfs tarballs for the official
 Oracle Linux base images published on [Docker Hub](https://hub.docker.com/_/oraclelinux)
@@ -66,6 +68,9 @@ the [Oracle Container Registry](https://container-registry.oracle.com).
 
 Oracle Linux is released under the GPLv2. See the ```LICENSE``` file in this
 repository for more information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Fcontainer-images.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Fcontainer-images?ref=badge_large)
 
 ## Support
 
